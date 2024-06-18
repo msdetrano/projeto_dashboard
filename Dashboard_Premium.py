@@ -67,7 +67,7 @@ st.markdown(
 
 # Adicionar o logo da Premium no topo do sidebar
 # URL da imagem desejada
-url_imagem = "https://cdn-icons-png.flaticon.com/512/6820/6820955.png"
+url_imagem = "logo.png"
 
 # Exibir a imagem no sidebar
 st.sidebar.image(url_imagem, width=200)
