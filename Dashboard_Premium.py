@@ -23,7 +23,7 @@ tempo_medio_resolucao = fonteCsv.groupby('Designado Nome completo')['Tempo de re
 
 # Interface Streamlit
 st.set_page_config(layout="wide")  # Configura a página para layout amplo
-st.title('Dashboard de Análise de Chamados de Incidentes de Premium')
+st.title('Dashboard de Volumetria de Chamados de Incidentes de Operações')
 st.markdown('<i>Visualização dos Dados dos Chamados</i>', unsafe_allow_html=True)  # Subtítulo em itálico
 
 # Estilizar o sidebar com CSS (se necessário)
